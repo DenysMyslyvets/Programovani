@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2567cf39-fd85-46db-95ea-2e563e371ea1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BMICalculator/BMICalculator.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMICalculator/BMICalculator.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMICalculator/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Check password/Check password.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Check password/Check password.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Check password/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Prihlaseni.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Prihlaseni.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Avent of code/Day 1 - Avent of code.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Avent of code/Day 1 - Avent of code.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Avent of code/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1 - Avent of code/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Functions.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Functions.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLocharozmer/PLocharozmer.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLocharozmer/PLocharozmer.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLocharozmer/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/.idea/.idea.Program.cs - Medium/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/.idea/.idea.Program.cs - Medium/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/.idea/.idea.Program.cs - Medium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/Program.cs - Medium.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/Program.cs - Medium.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/obj/Program.cs - Medium.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/obj/Program.cs - Medium.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/obj/Program.cs - Medium.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs - Medium/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs/.idea/.idea.Program.cs/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs/.idea/.idea.Program.cs/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs/.idea/.idea.Program.cs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs/Program.cs.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs/Program.cs.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLoops/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLoops/SimpleLoops.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleLoops/SimpleLoops.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String - 12.11/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String - 12.11/String - 12.11.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String - 12.11/String - 12.11.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String - 12.11/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2-19.11.2025/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2-19.11.2025/String2-19.11.2025.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2-19.11.2025/String2-19.11.2025.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2-19.11.2025/zaci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Výběrové menu/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Výběrové menu/Výběrové menu.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Výběrové menu/Výběrové menu.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis/tennis-hra.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis/tennis-hra.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Školní známky/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Školní známky/Školní známky.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Školní známky/Školní známky.sln" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="38YpbXcpW9l9N4PA5GNWcRJqllo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2567cf39-fd85-46db-95ea-2e563e371ea1" name="Changes" comment="" />
+      <created>1768986432086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768986432086</updated>
+      <workItem from="1768986433421" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
